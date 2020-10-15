@@ -1,0 +1,14 @@
+html {
+    background-color: gray;
+    font-size: 16px;
+}
+
+h1 {
+    color: whitesmoke;
+    font-size: 24px;
+}
+
+p {
+    background-color: teal;
+    font-family: sans-serif;
+}
